@@ -2,7 +2,7 @@ var ary = ['Javascript', 'Ajax', 'ASP.NET'];
 console.log(delete ary[0]);
 console.log(ary);
 
-var obj = {x:1 y:2};
+var obj = {x:1, y:2};
 console.log(delete obj.x);
 console.log(obj.x);
 
