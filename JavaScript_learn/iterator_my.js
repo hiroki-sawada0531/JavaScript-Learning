@@ -1,4 +1,4 @@
-class MyIteretor {
+class MyIterator {
     constructor(data) {
         this.data = data;
     }
@@ -16,7 +16,7 @@ class MyIteretor {
 }
 }
 
-let itr = new MyIteretor(['one', 'two', 'three']);
+let itr = new MyIterator(['one', 'two', 'three']);
 for(let value of itr) {
     console.log(value);
 }
