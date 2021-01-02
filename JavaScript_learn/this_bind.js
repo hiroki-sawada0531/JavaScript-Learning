@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
     };
 
     document.getElementById('btn').addEventListener(
-        'click',data.show, false
+        'click',data.show.bind(data), false
     )
 }, false);
