@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('inner').addEventListener('click', function(e) {
         window.alert('#innerリスナーが発生しました。');
-        e.stopPropagation();
+        e.preventDefault();
     }, false);
 
     document.getElementById('inner').addEventListener('click', function(e) {
