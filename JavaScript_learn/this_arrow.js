@@ -2,10 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     var Counter = function(elem) {
         this.count = 0;
         this.elem = elem;
-        elem.addEventListener('click', function() {
+        elem.addEventListener('click', () => {
             this.count++;
             this.show();
-        }, false);
+        }, false)
     };
 
     Counter.prototype.show = function() {
