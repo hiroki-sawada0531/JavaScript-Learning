@@ -3,7 +3,7 @@ module.exports = function(grunt) {
     uglify: {
       myTask: {
         files: {
-          'scripts/app.min.js' : 
+          'scripts/app.min.js' :
           [
             'src/Member.js',
             'src/MyArea.js',
