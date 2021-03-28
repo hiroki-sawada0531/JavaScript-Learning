@@ -1,4 +1,4 @@
-# JavaScript-learn
+JavaScript-learn
 
 書籍javaScript本格入門の学習用です。
 
