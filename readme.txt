@@ -1,6 +1,10 @@
-JavaScript-learn
+<h2 align="center">JavaScript学習</h2>
 
-書籍javaScript本格入門の学習用です。
+## :clap:著書サイトURLと著者様
+https://wings.msn.to/
+<br>著者:山田 祥寛様
+
+### 書籍:改訂新版JavaScript本格入門の学習用です。
 
 
 ===========================================================================
